@@ -1,10 +1,10 @@
 #!/bin/bash
 
-cd "$(dirname "$0")"
+cd "$(dirname "$0")/.."
 
 git pull
 
-makdir -p build
+mkdir -p build
 
 cd build
 
