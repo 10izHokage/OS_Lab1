@@ -1,3 +1,0 @@
-C:/Users/Ulyana/Desktop/учеба/OS_Labs/Lab1/build/CMakeFiles/hello.dir
-C:/Users/Ulyana/Desktop/учеба/OS_Labs/Lab1/build/CMakeFiles/edit_cache.dir
-C:/Users/Ulyana/Desktop/учеба/OS_Labs/Lab1/build/CMakeFiles/rebuild_cache.dir
